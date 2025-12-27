@@ -11,7 +11,7 @@ There was an error in RapidAPI website and API so I used different API with same
 
 
 
-A simple iOS app built with UIKit that displays trending movies in a scrollable list. Users can tap a movie to see its detailed view.
+# A simple iOS app built with UIKit that displays trending movies in a scrollable list. Users can tap a movie to see its detailed view.
 
 # Features
 Fetches trending movies from an API using TrendingViewModel.
